@@ -1,0 +1,1 @@
+This directory contains SparkSQL projects/examples.
